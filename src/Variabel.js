@@ -9,6 +9,13 @@ if (true) {
   var harga = 30000;
 }
 
+//Let
+// let harga = 20000;
+// harga = 30000;
+// if (true) {
+//   let harga = 30000;
+// }
+
 
 const Variabel = () => {
   return (
