@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Row, Form, Button, FormLabel } from "react-bootstrap";
+import { Col, Row, Form, Button, FormLabel} from "react-bootstrap";
 
 const Formulir = () => {
   return (
